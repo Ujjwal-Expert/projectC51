@@ -1,0 +1,35 @@
+body{
+    background-color: #ECCFC3;
+    font-family: sans-serif;
+    margin:0px;
+}
+
+.item {
+    background-color: beige;
+    margin:20px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin:20px;
+    padding-left: 15px;
+}
+h1{
+    color:#EE2E31;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding:15px;
+}
+p{
+    text-align: center;
+}
+.image{
+    border: solid;
+    border-radius: 10%;
+    color:#370031;
+    align-self: center;
+}
